@@ -16,11 +16,11 @@
 # For more details, check the deps_spec.yaml file in the current folder.
 
 UBUNTU1604_TAR = struct(
-    revision = "1556232517",
+    revision = "1557512209",
     sha256 = "fd9e05a2b68f63eaf4cc25033d2cb0589882c24397d4cf2e5068c4049cc1763e",
 )
 
 DEBS_TARBALL = struct(
-    revision = "20190313",
-    sha256 = "2464f48615d1359ef9876212a084d58f537dd8de58c5da382b654f216561158c",
+    revision = "1557512207",
+    sha256 = "096e656aca628b1240a0c2cf77bf1c278545443bcab56cfb2df6c68bc4980a8b",
 )
